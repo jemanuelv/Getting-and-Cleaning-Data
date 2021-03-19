@@ -48,5 +48,5 @@ data <- cbind(data, x)
 summ <- data %>% group_by(Activity,Subject) %>% summarize_all(mean)
 
 # Write tidy data set.
-write.csv(summ, "tidy_data_set.csv")
+write.table(summ, "tidy_data_set.txt", row.name=FALSE)
 
