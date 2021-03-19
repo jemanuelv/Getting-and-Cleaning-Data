@@ -27,7 +27,7 @@ The run_analysis.R script does the following tasks:
 6. Summarize data by activities and subjects, using dpliy library and mean.
 7. Write a tidy data set file.
 
-tidy_data_set.csv
+tidy_data_set.txt
 
 File with the tidy data set.
 
