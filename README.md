@@ -1,8 +1,8 @@
-Project: Getting and Cleaning Data Course Project
+# Project: Getting and Cleaning Data Course Project
 
 This repository contains the following files:
 
-# run_analysis.R
+run_analysis.R
 
 This script use as input, data collected from embedded accelerometer and gyroscope from the 
 Samsung Galaxy S smartphone, with 30 subjects performed six activities: WALKING, WALKING_UPSTAIRS, 
@@ -27,11 +27,11 @@ The run_analysis.R script does the following tasks:
 6. Summarize data by activities and subjects, using dpliy library and mean.
 7. Write a tidy data set file.
 
-# tidy_data_set.csv
+tidy_data_set.csv
 
 File with the tidy data set.
 
-# CodeBook.md
+CodeBook.md
 
 Code book that describes the variables, the data, and transformations doing for the script.
 
