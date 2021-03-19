@@ -2,6 +2,7 @@
 
 ## Files
 
+
 x_test.txt: Table with features measured (test).
 y_test.txt: Table with number of activity (test).
 subject_test.txt: Table with number of subject doing the activities.
