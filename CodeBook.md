@@ -4,12 +4,19 @@
 
 
 x_test.txt: Table with features measured (test).
+
 y_test.txt: Table with number of activity (test).
+
 subject_test.txt: Table with number of subject doing the activities.
+
 x_train.txt: Table with features measured (train).
+
 y_train.txt: Table with number of activity (train).
+
 subject_train.txt: Table with number of subject doing the activities.
+
 activiy_labels.txt: Table with labels of activities.
+
 features.txt: Table with labels of features.
 
 ## Variables
